@@ -1,7 +1,11 @@
 #!/usr/bin/env bash
-
-echo "Welcome to the workshop!"
-echo "Current directory:"
+echo "Hello,welcome to bash"
+echo "My first shell script"
 pwd
-echo "Date and time:"
 date
+
+
+
+
+#Git Assignment 2 practice
+# laitka working on first.sh file
